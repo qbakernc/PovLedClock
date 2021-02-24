@@ -13,6 +13,6 @@ Component List
 * SparkFun BlueSMIRF Silver bluetooth  receiver (https://www.sparkfun.com/products/12577)
 
 Links  
-[Video Demonstration](https://www.dropbox.com/s/3vhhq8mxhshum98/PovLedClock1.MOV?dl=0)
-https://www.dropbox.com/s/ysak807ao08689e/PovLedClock2.mp4?dl=0
+[Video Demonstration 1](https://www.dropbox.com/s/3vhhq8mxhshum98/PovLedClock1.MOV?dl=0)  
+[Video Demonstration 2](https://www.dropbox.com/s/ysak807ao08689e/PovLedClock2.mp4?dl=0)
 

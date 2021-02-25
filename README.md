@@ -7,7 +7,7 @@ What I learned
 * Learned how to create a random number generator using a timer and the unpredictability of player input. 
 
 Links  
-[Video Demonstration 1](https://www.dropbox.com/s/3vhhq8mxhshum98/PovLedClock1.MOV?dl=0)  
+[Video Demonstration 1](https://drive.google.com/file/d/1v3Be6J3bUKk0ls36GDCUN7odQP1oLxGW/view?usp=sharing)  
 [Video Demonstration 2](https://www.dropbox.com/s/ysak807ao08689e/PovLedClock2.mp4?dl=0)
 
 Images  

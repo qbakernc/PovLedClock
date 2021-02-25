@@ -11,7 +11,7 @@ Links
 [Video Demonstration 2](https://www.dropbox.com/s/ysak807ao08689e/PovLedClock2.mp4?dl=0)
 
 Images  
-<img src = "Images/image1.jpg" width = "274" height = "205">
-<img src = "Images/image2.jpg" width = "274" height = "205">
-<img src = "Images/image3.jpg" width = "274" height = "205">
-<img src = "Images/image4.jpg" width = "274" height = "205">
+<img src = "Images/image1.jpeg" width = "274" height = "205">
+<img src = "Images/image2.jpeg" width = "274" height = "205">
+<img src = "Images/image3.jpeg" width = "274" height = "205">
+<img src = "Images/image4.jpeg" width = "274" height = "205">
